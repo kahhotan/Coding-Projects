@@ -1,1 +1,1 @@
-# This repository will include the codes for side projects
+# This repository will include the codes for personal projects
